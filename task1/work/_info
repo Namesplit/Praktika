@@ -1,0 +1,156 @@
+m255
+K4
+z2
+Z0 !s12c _opt5
+Z1 !s99 nomlopt
+R0
+R1
+!s12c _opt4
+R1
+!s12c _opt3
+R1
+!s12c _opt2
+R1
+Z2 !s12c _opt1
+R1
+Z3 !s12c _opt
+R1
+R2
+R1
+R3
+R1
+!s11f vlog 2023.3 2023.07, Jul 17 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z4 d/home/vyacheslav/FGPA/lesson1/practika/Impuls/verification/task1
+T_opt
+!s110 1746552493
+VSjSodb?RO?FFec]8Zj4?M2
+Z5 04 16 4 work tb_scr_1dim_core fast 0
+=1-000ae431a4f1-681a46ac-da0d4-6c53
+R1
+Z6 !s12b OEM100
+Z7 !s124 OEM10U2 
+Z8 o-quiet -auto_acc_if_foreign -work work +acc
+Z9 tCvgOpt 0
+n@_opt
+Z10 OL;O;2023.3;77
+R4
+T_opt1
+!s110 1746552788
+V@OK<Idn3_aJ;o`fRU8l6i1
+R5
+=1-000ae431a4f1-681a47d4-47ca4-6e81
+R1
+R6
+R7
+R8
+R9
+n@_opt1
+R10
+R4
+T_opt2
+!s110 1746553324
+Vm1DdZ6dc=jW0@05d`f_ma3
+R5
+=1-000ae431a4f1-681a49eb-f2b76-7221
+R1
+R6
+R7
+R8
+R9
+n@_opt2
+R10
+R4
+T_opt3
+!s110 1746553798
+VQZZ[A`6Q:U18G[TCLF8Sf3
+R5
+=1-000ae431a4f1-681a4bc6-4c6dd-74ad
+R1
+R6
+R7
+R8
+R9
+n@_opt3
+R10
+R4
+T_opt4
+!s110 1746554118
+VfP_?^HFZAZWOiA47b;j3[1
+R5
+=1-000ae431a4f1-681a4d06-afc8f-76ca
+R1
+R6
+R7
+R8
+R9
+n@_opt4
+R10
+R4
+T_opt5
+Z11 !s110 1746558110
+Vk^aE4zWWOdj>n4;3A`1I02
+R5
+=1-000ae431a4f1-681a5c9e-c86a9-886b
+R1
+R6
+R7
+R8
+R9
+n@_opt5
+R10
+vscr_1dim_core
+Z12 2scr_1dim_core.sv|tb_scr_1dim_core.sv
+Z13 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+R11
+!i10b 1
+!s100 i:5<:0C=]O@EHlVz7XzBE1
+ITFhFEmFTO_m732LnRl8>Y1
+S1
+R4
+w1744642831
+8scr_1dim_core.sv
+Fscr_1dim_core.sv
+!i122 11
+L0 8 76
+Z14 VDg1SIo80bB@j0V0VzS_@n1
+Z15 OL;L;2023.3;77
+r1
+!s85 0
+31
+Z16 !s108 1746558110.000000
+Z17 !s107 tb_scr_1dim_core.sv|scr_1dim_core.sv|
+Z18 !s90 -reportprogress|300|scr_1dim_core.sv|tb_scr_1dim_core.sv|
+!i113 0
+Z19 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R9
+vtb_scr_1dim_core
+R12
+R13
+R11
+!i10b 1
+!s100 HAIUWPSCbLGLSYc=1j@X=3
+I59beVMHMjElNOEl89<=>k0
+S1
+R4
+w1746557951
+8tb_scr_1dim_core.sv
+Ftb_scr_1dim_core.sv
+!i122 11
+L0 9 104
+R14
+R15
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 0
+R19
+R9
